@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "grpcDemo.Server"; // server name space
+
+package greet;
+
+service Greeter {
+  rpc SayHello (HelloRequest) returns (HelloReply);
+}
+
+// ref: https://developers.google.com/protocol-buffers/docs/proto3
+
+message HelloRequest {
+  string name = 1;
+}
+
+message HelloReply {
+  string message = 1;
+}
