@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grpcDemo.Server", "grpcDemo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grpcDemo.Client", "grpcDemo.Client\grpcDemo.Client.csproj", "{55176C70-9A8A-415F-A26E-765A9F674406}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5301BCE9-53ED-44BD-ABCD-C9B150475FD2}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\welly\OneDrive\wg-protocol-buffers-deck.pptx = ..\..\..\Users\welly\OneDrive\wg-protocol-buffers-deck.pptx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
