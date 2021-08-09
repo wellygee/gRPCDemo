@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grpcDemo.Server", "grpcDemo.Server\grpcDemo.Server.csproj", "{C411C199-A018-45BD-87EE-0AD01704D346}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "grpcDemo.Server", "grpcDemo.Server\grpcDemo.Server.csproj", "{C411C199-A018-45BD-87EE-0AD01704D346}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grpcDemo.Client", "grpcDemo.Client\grpcDemo.Client.csproj", "{55176C70-9A8A-415F-A26E-765A9F674406}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "grpcDemo.Client", "grpcDemo.Client\grpcDemo.Client.csproj", "{55176C70-9A8A-415F-A26E-765A9F674406}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5301BCE9-53ED-44BD-ABCD-C9B150475FD2}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Users\welly\OneDrive\wg-protocol-buffers-deck.pptx = ..\..\..\Users\welly\OneDrive\wg-protocol-buffers-deck.pptx
+		wg-protocol-buffers-deck.pptx = wg-protocol-buffers-deck.pptx
 	EndProjectSection
 EndProject
 Global
